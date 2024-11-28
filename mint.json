@@ -7,30 +7,28 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#09090b",
+    "light": "#a1a1aa",
+    "dark": "#09090b",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#09090b",
+      "to": "#cf3834"
     }
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Email Mikey",
+      "url": "mailto:mikey@ermbot.xyz"
+    },
+    {
+      "name": "Email Noah",
+      "url": "mailto:noah@ermbot.xyz"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "ERM Website",
+    "url": "https://ermbot.xyz"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
@@ -50,15 +48,13 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Home",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Staff",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -69,23 +65,14 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "API",
       "pages": [
         "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "discord": "https://discord.gg/ermbot",
+    "github": "https://github.com/MikeyUsersREC/ERM"
   }
 }
