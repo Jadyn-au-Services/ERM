@@ -6,7 +6,7 @@
     "light": "/logo/erm_logo.png"
   },
   "favicon": "/logo/erm_logo.svg",
-  "theme": "venus",
+  "theme": "prism",
   "layout": "sidenav",
   "colors": {
     "primary": "#09090b",
@@ -14,7 +14,7 @@
     "dark": "#09090b",
     "anchors": {
       "from": "#09090b",
-      "to": "#cf3834"
+      "to": "#171719"
     }
   },
   "topbarLinks": [
@@ -59,23 +59,28 @@
     {
       "group": "Staff",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "staff/supportThreads",
+        "staff/disciplinaryActions",
+        "staff/supportPromotions",
+        "staff/additionalPointers"
       ]
     },
     {
       "group": "API",
       "pages": [
-        "api-reference/introduction"
+        "api/setup",
+        "api/commandList",
+        "api/logging",
+        "api/actions"
       ]
     }
   ],
   "footerSocials": {
     "discord": "https://discord.gg/ermbot",
     "github": "https://github.com/MikeyUsersREC/ERM"
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true
   }
 }
