@@ -5,8 +5,9 @@
     "dark": "/logo/erm_logo.png",
     "light": "/logo/erm_logo.png"
   },
-  "favicon": "/logo/erm_logo.png",
+  "favicon": "/logo/erm_logo.svg",
   "theme": "venus",
+  "layout": "sidenav",
   "colors": {
     "primary": "#09090b",
     "light": "#a1a1aa",
@@ -45,6 +46,8 @@
       "icon": "discord",
       "url": "https://discord.gg/ermbot"
     }
+  ],
+  "tabs": [
   ],
   "navigation": [
     {
