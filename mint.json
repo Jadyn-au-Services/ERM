@@ -62,7 +62,8 @@
         "staff/supportThreads",
         "staff/disciplinaryActions",
         "staff/supportPromotions",
-        "staff/additionalPointers"
+        "staff/additionalPointers",
+        "staff/themesMarket"
       ]
     },
     {
