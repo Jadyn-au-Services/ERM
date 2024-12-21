@@ -72,7 +72,8 @@
         "api-docs/setup",
         "api-docs/commandList",
         "api-docs/logging",
-        "api-docs/actions"
+        "api-docs/actions",
+        "api-docs/remoteLogCommand"
       ]
     }
   ],
