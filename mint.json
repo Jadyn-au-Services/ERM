@@ -45,6 +45,16 @@
       "name": "Support Server",
       "icon": "discord",
       "url": "https://discord.gg/ermbot"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/MikeyUsersREC/ERM"
+    },
+    {
+      "name": "PRC API",
+      "icon": "server",
+      "url": "https://apidocs.policeroleplay.community/for-developers/api-reference"
     }
   ],
   "tabs": [
