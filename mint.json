@@ -19,12 +19,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Email Mikey",
-      "url": "mailto:mikey@ermbot.xyz"
-    },
-    {
-      "name": "Email Noah",
-      "url": "mailto:noah@ermbot.xyz"
+      "name": "Add Riviana",
+      "url": "https://discord.com/oauth2/authorize?client_id=1343675582038147163"
     },
     {
       "name": "Invite the Bot",
@@ -63,7 +59,8 @@
     {
       "group": "Home",
       "pages": [
-        "introduction"
+        "introduction",
+        "updates"
       ]
     },
     {
